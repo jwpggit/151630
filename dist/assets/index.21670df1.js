@@ -399,15 +399,14 @@ td {
   width: auto;
 }
 .footer {
-  display: block;
+  display: flex;
+  justify-content: flex-end;
   position: absolute;
   width: 100%;
-  text-align: left;
   padding: 2.5cm 1.5cm;
   left: 0;
   bottom: 0;
 }
-
 
 
 
